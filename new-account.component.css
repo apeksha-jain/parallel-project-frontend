@@ -1,0 +1,12 @@
+.panel{
+	margin-top:5%;
+	box-shadow:3px 3px 3px 3px grey;
+}
+ #pin,#address{
+	margin-left:1%;
+	margin-right:1%;
+	width:98%;
+}
+button{
+	margin-left:1%;
+}
